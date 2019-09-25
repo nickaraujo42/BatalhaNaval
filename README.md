@@ -11,5 +11,5 @@ Configurando as VMs
 
 As duas maquinas tanto o cliente e o servidor seguem as mesmas configuraçoes.
 
-
+https://i.imgur.com/VH6wAHc.png
 <a href="https://i.imgur.com/VH6wAHc.png"> (Clique aqui para ampliar)</a>
