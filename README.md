@@ -50,11 +50,4 @@ Ultilize o Start (Em verde na imagem)
 
 ![alt text](https://i.imgur.com/eDMU1Ts.png)
 
-As maquinas serao ligadas e conectadas.
-
-
-
-
-
-
-
+Após as estarão maquinas ligadas e conectadas.
