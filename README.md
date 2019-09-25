@@ -1,4 +1,6 @@
-O projeto Batalha Naval é um jogo construído na linguagem C e que foi implementado em redes, usando o protocolo UDP
+#Batalha Naval
+
+O projeto Batalha Naval é um jogo construído na linguagem C e que foi implementado em redes, usando o protocolo UDP.
 
 A ideia original do projeto é estudar o desenvolvimento de jogos em redes. 
 Produzido por alunos da Fatec de Sao Caetano do Sul, cursando Jogos Digitais.
@@ -11,5 +13,5 @@ Configurando as VMs
 
 As duas maquinas tanto o cliente e o servidor seguem as mesmas configuraçoes.
 
-https://i.imgur.com/VH6wAHc.png
+![alt text](https://i.imgur.com/VH6wAHc.png)
 <a href="https://i.imgur.com/VH6wAHc.png"> (Clique aqui para ampliar)</a>
