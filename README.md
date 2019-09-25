@@ -33,17 +33,18 @@ Edit -> Preferences -> VitualBox VMs -> New
 
 Depois de salvar as configuraçoes
 
-Abrir Browse Switches -> ATM Switch
+Abrir Browse Switches -> Ethernet Switch
 
-![alt text](https://i.imgur.com/DjOARvw.png)
+![alt text](https://i.imgur.com/1ZPkdrl.png)
 
 Abrir Browse End Devices -> Adicionar as duas Vms ao projeto
 
-![alt text](https://i.imgur.com/fvZsQS7.png)
+![alt text](https://i.imgur.com/lilJEKN.png)
 
 Conectar as maquinas ao Switch usando a opçao Add Link 
 
-![alt text](https://i.imgur.com/DHM1XD6.png)
+![alt text](https://i.imgur.com/mpTnWIR.png)
+![alt text](https://i.imgur.com/gltGGrh.png)
 
 Para finalizar e iniciar as maquinas conectadas
 Ultilize o Start (Em verde na imagem)
@@ -51,3 +52,4 @@ Ultilize o Start (Em verde na imagem)
 ![alt text](https://i.imgur.com/eDMU1Ts.png)
 
 Após as estarão maquinas ligadas e conectadas.
+
