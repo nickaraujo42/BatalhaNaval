@@ -51,5 +51,54 @@ Ultilize o Start (Em verde na imagem)
 
 ![alt text](https://i.imgur.com/eDMU1Ts.png)
 
-Após as estarão maquinas ligadas e conectadas.
+Após as maquinas estarão maquinas ligadas e conectadas.
 
+## Oracle VM VirtualBox
+
+## CLIENTE
+
+Em configuraçoes de rede cabeada
+
+![alt text](https://i.imgur.com/Gbxu4JD.png)
+
+Aplicar o metodo IPv4 no manual
+Com o seguinte endereço e a mascara de rede igual segue na imagem
+
+![alt text](https://i.imgur.com/aXVl1f9.png)
+
+## SERVIDOR 
+
+![alt text](https://i.imgur.com/Gbxu4JD.png)
+
+Aplicar o metodo IPv4 no manual
+Com o seguinte endereço e a mascara de rede igual segue na imagem
+
+![alt text](https://i.imgur.com/aw05Kon.png)
+
+Caso necessario desligar e ligar a rede novamente.
+
+Passar o codigo com um pen drive para as maquinas vituais Cliente no respectivo e Servidor do mesmo modo.
+
+## HOW TO
+
+Para compilar um código c no Linux (ubuntu) basta:
+
+prompt: gcc codigo_fonte.c -o nome_do_executavel
+
+Caso queira ver o processo de compilação digite: 
+
+prompt: gcc codigo_fonte.c -o nome_do_executavel --verbose
+
+Para executar o programa basta digitar:
+
+prompt: ./nome_do_executavel
+
+Caso o arquivo não execute pode ser devido a questão de permissão....
+
+Como resolver? digite chmod +x nome_arquivo
+
+como segue o exemplo da imagem:
+
+![alt text](https://i.imgur.com/d7nAT0y.png)
+
+Só se divertir com o jogo :)
