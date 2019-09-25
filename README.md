@@ -1,4 +1,4 @@
-#Batalha Naval
+# Batalha Naval
 
 O projeto Batalha Naval é um jogo construído na linguagem C e que foi implementado em redes, usando o protocolo UDP.
 
@@ -9,7 +9,7 @@ Para inicializar usamos o Software GNS3,
 ele permite a combinação de dispositivos virtuais e reais, usados ​​para simular redes complexas, necessario tambem a ultilizaçao 
 do Oracle VM VirtualBox, para criar ambientes para instalação de sistemas, com os sistemas nas duas maquinas Linux Ubuntu 18.04.
 
-#Configurando as VMs
+## Configurando as VMs, Oracle VM VirtualBox
 
 As duas maquinas tanto o cliente e o servidor seguem as mesmas configuraçoes.
 
@@ -19,7 +19,7 @@ Configuraçao do Sistema
 Configuraçao da Rede
 ![alt text](https://i.imgur.com/elvrkW7.png)
 
-#GNS3
+## GNS3
 
 Iniciar um novo projeto.
 
@@ -51,3 +51,10 @@ Ultilize o Start (Em verde na imagem)
 ![alt text](https://i.imgur.com/eDMU1Ts.png)
 
 As maquinas serao ligadas e conectadas.
+
+
+
+
+
+
+
