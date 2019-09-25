@@ -101,4 +101,7 @@ como segue o exemplo da imagem:
 
 ![alt text](https://i.imgur.com/d7nAT0y.png)
 
+# LET'S PLAY
+![alt text](https://i.imgur.com/LKI5jCS.png)
+
 Só se divertir com o jogo :)
